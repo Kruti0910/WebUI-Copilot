@@ -1,0 +1,26 @@
+.query-form {
+  padding: 1rem;
+  text-align: center;
+}
+
+.buttons {
+  margin: 1rem;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.response {
+  margin-top: 1rem;
+}
